@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My App Exercici Entregable</string>
+    <string name="txtName">Name</string>
+    <string name="txtSurname">Surname</string>
+    <string name="txtWeb">Web</string>
+    <string name="txtPhone">Phone</string>
+    <!-- txt -->
+    <string name="hintName">Write your name here</string>
+    <string name="hintSurname">Write your surname here</string>
+    <string name="hintWeb">Write your website here</string>
+    <string name="hintPhone">Write your phone here</string>
+    <!-- hint -->
+    <string name="btnShow">Show</string>
+    <string name="btnClear">Clear</string>
+    <!-- btn -->
+    <string name="userOk">User correctly created</string>
+    <string name="errEmpty">There is an empty field</string>
+    <string name="errEmptyName">Name field can not be empty</string>
+    <string name="errEmptySurname">Surname field can not be empty</string>
+    <string name="errEmptyWeb">Website field can not be empty</string>
+    <string name="errEmptyPhone">Phone field can not be empty</string>
+    <!--alerts-->
+    <string name="alertTitle">Clean</string>
+    <string name="alertText">Are you sure?</string>
+</resources>

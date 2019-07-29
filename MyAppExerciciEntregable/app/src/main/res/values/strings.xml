@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My App Exercici Entregable</string>
+    <string name="txtName">Nom</string>
+    <string name="txtSurname">Cognom</string>
+    <string name="txtWeb">Web</string>
+    <string name="txtPhone">Telèfon</string>
+    <!-- txt -->
+    <string name="hintName">Escriu el teu nom aquí</string>
+    <string name="hintSurname">Escriu el cognom aquí</string>
+    <string name="hintWeb">Escriu la teva web aquí</string>
+    <string name="hintPhone">Escriu el teu telèfon aquí</string>
+    <!-- hint -->
+    <string name="btnShow">Mostrar</string>
+    <string name="btnClear">Esborrar</string>
+    <!-- btn -->
+    <string name="userOk">Usuari creat correctement</string>
+    <string name="errEmpty">Hi ha alun camp buit</string>
+    <string name="errEmptyName">El camp de nom no pot quedar buit</string>
+    <string name="errEmptySurname">El camp del teu cognom no pot quedar buit</string>
+    <string name="errEmptyWeb">El camp de la teva web no pot quedar buit</string>
+    <string name="errEmptyPhone">El camp del telèfon no pot quedar buit</string>
+    <!--alerts-->
+    <string name="alertTitle">Netejar</string>
+    <string name="alertText">N\'Estàs segur?</string>
+</resources>
